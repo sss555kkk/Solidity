@@ -1,0 +1,3 @@
+SimpleBlockchain은 정보를 담은 블록과 블록의 배열로만 이루어진 간단한 형태였음. 
+좀 더 본격적인 블록체인을 만들어 보겠음. 
+Building Blockchain in Go를 기반으로 작성함.  
